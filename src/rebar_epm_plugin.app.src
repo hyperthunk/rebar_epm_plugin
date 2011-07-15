@@ -1,0 +1,7 @@
+{application, rebar_epm_plugin, [
+    {description, "Rebar Erlang Package Manager (EPM) Plugin"},
+    {vsn, "0.0.1"},
+    {registered, []},
+    {applications, [kernel,stdlib]},
+    {env, []}
+]}.

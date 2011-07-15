@@ -1,0 +1,3 @@
+%% Sample rebar.config demonstrating epm plugin configuration
+
+{rebar_plugins, [rebar_epm_plugin]}.
